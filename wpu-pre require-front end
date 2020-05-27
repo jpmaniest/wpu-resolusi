@@ -6,7 +6,9 @@ Pre require front end
  * belajar online berbayar-udemy
 -Basic terminal usage
 -Data structure and algorithms
--Github
+ * belajar online berbayar-udacity
+ * belajar online berbayar-udemy
+-Github 
 -licenses
 -Semantic versioning
 -SSh
@@ -14,3 +16,6 @@ Pre require front end
 -Design patern
 -Character encoding
 -Javascript
+ * ES6
+ * Framework javascript
+   * react
