@@ -2,6 +2,6 @@ WPU RESOLUSI
 -Konsisten untuk belajar sesuatu yang baru
 -Konsistensi untuk olahraga tiap pagi
 -Konsistensi untuk makan sehat dan berpikir positif
--mengenal lebih jauh tentang dunia pemrograman
 -mendalami bahasa pemrograman C++
 -mendalami bahasa pemrograman phyton
+-mendalami web developer
